@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/WorkSpace/Kotlin/LoginRucko/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/WorkSpace/Kotlin/LoginRucko/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/WorkSpace/Kotlin/LoginRucko/app/src/main/res/layout/activity_main.xml" value="0.36118848653667596" />
+        <entry key="..\:/WorkSpace/Kotlin/LoginRucko/app/src/main/res/layout/activity_register.xml" value="0.14" />
+        <entry key="..\:/WorkSpace/Kotlin/LoginRucko/app/src/main/res/layout/fragment_user.xml" value="0.18009259259259258" />
         <entry key="..\:/WorkSpace/Kotlin/LoginRucko/app/src/main/res/layout/fragment_users.xml" value="0.18009259259259258" />
         <entry key="..\:/WorkSpace/Kotlin/LoginRucko/app/src/main/res/layout/fragment_users_list.xml" value="0.2" />
       </map>
